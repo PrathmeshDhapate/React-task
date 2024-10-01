@@ -1,0 +1,26 @@
+#container {
+ position:relative;  
+}
+
+
+.Contents label {
+    display:flex;
+    justify-content:center;
+}
+
+.toggle {
+    position:absolute;
+    top:0;
+    margin-left:530px;
+    
+}
+.lighttheme {
+    background-color: white;
+    color:black;
+}
+
+
+.darktheme {
+    background-color:black;
+    color:white;
+}
